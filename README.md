@@ -1,63 +1,142 @@
-# Robert Salinas
+<div align="center">
+  <h1>👋 Hola, soy Robert Salinas</h1>
+  
+  <p>
+    <strong>Estudiante de Ingeniería</strong> · <strong>Técnico en Informática Recibido</strong><br>
+    Hardware + Software · Open Source · Low-cost Engineering · Paraguay 🇵🇾
+  </p>
 
-Engineering student and certified IT technician building real-world technical systems  
-Hardware + Software · Open Source · Low-cost engineering
-
----
-
-## What I do
-- Design and build practical engineering projects
-- Integrate hardware and software systems
-- Document decisions, failures and technical trade-offs
-
----
-
-## Featured projects
-- 🛠️ CNC Modular System — low-cost, documented CNC platform
-- ⚙️ Engineering Toolkits — open-source tools for better project design
-- 🌍 Social Impact Tech — technology applied to real community problems
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Building+real-world+systems;Integrating+hardware+%26+software;Designing+low-cost+solutions;Open+to+collaborations!" alt="Typing SVG" />
+</div>
 
 ---
 
-## Technical background
-- Certified IT Technician
-- Internship at JHF Ingeniería
-- Internship at PTI (Parque Tecnológico Itaipú)
-- Experience in technical environments and real-world systems
+## 🎯 Sobre mí
+
+Diseño y construyo sistemas técnicos **prácticos y documentados**, integrando hardware y software de forma innovadora. Me especializo en soluciones de bajo costo, código abierto y aplicaciones con impacto real en la comunidad.
+
+Tengo formación certificada como Técnico en Informática y experiencia en entornos técnicos profesionales, combinando teoría académica con práctica en ingeniería real.
 
 ---
 
-## Tech stack
-- Languages: Python, php, C/C++, JavaScript, HTML , Css
-- Hardware: ESP32, Arduino, sensors
-- Tools: Git, Linux, CAD (basic)
+## 🔧 Qué hago
+
+- **⚙️ Diseño y Prototipado** — Sistemas embebidos y soluciones integradas hardware-software
+- **🛠️ Ingeniería de Bajo Costo** — Plataformas y herramientas accesibles y documentadas
+- **📚 Documentación Técnica** — Registro riguroso de decisiones, errores y trade-offs
+- **🌍 Impacto Social** — Tecnología aplicada a problemas reales de la comunidad
 
 ---
 
-## Currently learning
-- System design
-- Embedded systems
-- Technical documentation
-- Embedded and hardware–software integration
+## 🛠️ Proyectos Destacados
+
+| Proyecto | Descripción | Estado |
+|----------|-----------|--------|
+| **CNC Modular System** | Plataforma CNC de bajo costo y totalmente documentada | En desarrollo |
+| **Engineering Toolkits** | Herramientas open-source para optimizar diseño de proyectos | En desarrollo |
+| **Social Impact Tech** | Soluciones tecnológicas para desafíos comunitarios reales | Planificación |
+
+*Ver todos los proyectos en [mi perfil de GitHub](https://github.com/robert-salinas)*
 
 ---
 
-# 🇪🇸 Español
+## 💻 Stack Tecnológico
 
-Estudiante de ingeniería y **Técnico en Informática recibido**, enfocado en la construcción de sistemas técnicos reales  
-Hardware + Software · Código abierto · Ingeniería de bajo costo
+### 📝 Lenguajes de Programación
+```
+Python · JavaScript · C/C++ · PHP · HTML · CSS
+```
+
+### 🔌 Hardware & Embedded Systems
+```
+ESP32 · Arduino · Raspberry Pi · Sensores diversos · CAD (básico)
+```
+
+### 🛠️ Herramientas & Plataformas
+```
+Git · Linux · VS Code · Github · GNU/Linux
+```
 
 ---
 
-## Qué hago
-- Diseño y desarrollo proyectos de ingeniería prácticos
-- Integro sistemas de hardware y software
-- Documento decisiones técnicas, errores y compromisos
+## 🎓 Experiencia Profesional
+
+### 📋 Certificaciones
+- **Técnico en Informática** — Certificado y recibido ✓
+
+### 💼 Pasantías
+- **JHF Ingeniería** — Trabajo en sistemas técnicos y soluciones de ingeniería real
+- **PTI (Parque Tecnológico Itaipú)** — Desarrollo e innovación en tecnología
+
+### 🌐 Entorno de Trabajo
+- Experiencia en equipos técnicos profesionales
+- Trabajo con sistemas funcionales en producción
+- Colaboración en proyectos de ingeniería multidisciplinarios
 
 ---
 
-## Experiencia técnica
-- Técnico en Informática
-- Pasantía en **JHF Ingeniería**
-- Pasantía en el **PTI (Parque Tecnológico Itaipú)**
-- Trabajo en entornos técnicos reales y sistemas funcionales
+## 🚀 Actualmente Aprendiendo
+
+- 🏗️ **System Design** — Arquitectura escalable de sistemas
+- ⚙️ **Embedded Systems Avanzados** — Optimización y protocolos
+- 🔗 **Hardware-Software Integration** — Soluciones integradas de punta a punta
+- 📖 **Technical Documentation** — Best practices en documentación profesional
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robert-salinas&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robert-salinas&theme=dracula&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robert-salinas&theme=dracula&hide_border=true" alt="Contribution Graph" width="96%" />
+</div>
+
+---
+
+## 🤝 Conecta Conmigo
+
+<div align="center">
+  <a href="https://linkedin.com/in/robert-salinas-py/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/robert-salinas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:robert@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+## 💡 Filosofía
+
+> *"La ingeniería no es solo resolver problemas complejos. Es hacerlo de forma que otros puedan entender, mejorar y contribuir."*
+
+- **Documentación clara** sobre la razón detrás de cada decisión
+- **Open source** porque el conocimiento compartido acelera el progreso
+- **Bajo costo** sin sacrificar calidad o funcionalidad
+- **Iteración** basada en feedback y datos reales
+
+---
+
+## 🎯 Objetivos Actuales
+
+✅ Consolidar proyectos de ingeniería práctica  
+✅ Expandir experiencia en sistemas embebidos complejos  
+✅ Contribuir a proyectos open-source de impacto  
+✅ Mentorizar a otros en ingeniería y programación  
+
+---
+
+<div align="center">
+  <p><strong>¡Siempre abierto a colaboraciones, oportunidades y conversaciones técnicas! 🚀</strong></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=robert-salinas&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <p><em>Última actualización: Febrero 2026</em></p>
+</div>
